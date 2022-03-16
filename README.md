@@ -1,16 +1,12 @@
 ### Hey, there 👋
 
-<!--
-**ansh27ika/ansh27ika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'M Anshika pre-final year er student specializing in data science at
-👩‍🎓 Chitkara University,solan building Machine Learning Predictive Models.
- I love solving research-oriented analytical problems.
+I'm Anshika pre-final year ER  student specializing in data science and data analysis  at 👩‍🎓 Chitkara University,solan building Machine Learning Predictive Models. I love solving research-oriented analytical problems.Am currently coding at GFG, hacker rank, & coding bat . I love to make  beautiful tabealu vizzes and data visualization through power bi ,excel and seaborn.
 
-📫 How to reach me --->anshika2797@gmail.com
+* 📫 How to reach me --->anshika2797@gmail.com
 
-🌱 I’m currently learning skills of data analyst and data scientists
+* 🌱 I’m currently learning skills of data analyst and data scientists
+* 😄 Pronouns: She/Her
 
-💬 Ask me about: datavisualization , machine learning ,sql,analyzing data,programming languages: python , java
+* 💬 Ask me about: datavisualization , machine learning ,sql, analyzing data, python , java,power bi ,excel and seaborn.
 
-This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
