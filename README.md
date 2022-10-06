@@ -5,7 +5,7 @@ I'm Anshika final year ER  student specializing in data science and data analysi
 
 * 📫 How to reach me  anshika2797@gmail.com
 
-* 🌱 I’m currently learning skills of data analyst and data scientists
+* 🌱 I’m currently learning skills of data engineering 
 * 😄 Pronouns: She/Her
 * 💬 Ask me about: datavisualization , machine learning ,sql, analyzing data, python , java,power bi ,excel and seaborn.
 
